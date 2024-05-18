@@ -1,5 +1,5 @@
-# philipsHackathon
-This is my submission for the Philips Data science HAckathon 2018 which had an accuracy of 92.5% by using a Gradient Tree Boosting method!
+# PHILIPS HSDP HACKATHON
+This is my submission for the Philips Data Science HAckathon 2021 which had an accuracy of 92.5% by using a Gradient Tree Boosting method!
 
 ### Approach for building the Machine Learning Model
 The machine learning challenge was to predict the price range according to given mobile phone specifications. The training data had 2000 data points and 21 columns. 
